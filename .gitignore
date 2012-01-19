@@ -1,0 +1,10 @@
+bin/*.exe
+src/Release
+src/Debug
+src/*/Release
+src/*/Debug
+dist/*.exe
+*.ncb
+*.tmp
+*.user
+*.suo
